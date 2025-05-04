@@ -25,6 +25,7 @@ Sono un grande sostenitore dell'open source e ho contribuito a diversi progetti,
 ---
 
 #### Progetti Originali
+- **[Zen Generator](https://github.com/WaYdotNET/zen-generator)**: generatore di codice Python partendo da una specifica AsyncAPI e viceversa (Python)
 - **[urllib_s3](https://github.com/WaYdotNET/urllib_s3)**: urllib handler per il protocollo s3 (Python)
 - **[CarrierWave::ImageSorcery](https://github.com/WaYdotNET/carrierwave-imagesorcery)**: Ulteriori processi per utilizzare ImageSorcery in CarrierWave (Ruby)
 - **[MsTranslate](https://github.com/WaYdotNET/ms_translate)**: API semplice in Ruby per Microsoft Translator V2 (Ruby)
