@@ -1,18 +1,55 @@
-### Carlo Bertini [WaYdotNET]
->Web Developer/ Devops and problem solver adept at programming
+# Carlo Bertini [WaYdotNET]
+
+### _Platform Leader, Architect & "Zen" Practitioner of Code_
+
+> _"Simplicity is the ultimate sophistication."_
 
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20JavaScript%2C%20Ruby-blue)
 ![Frameworks](https://img.shields.io/badge/Frameworks-Django%2C%20React%2C%20Vue.js-violet)
 ![Tools](https://img.shields.io/badge/Tools-Docker%2C%20Kubernetes%2C%20Git-orange)
 
+---
 
+## 🧘‍♂️ My Philosophy: The "Zen" of Engineering
 
-#### Chi Sono
-Sono Carlo Bertini, un appassionato web developer e DevOps con un'esperienza pluriennale nel settore della tecnologia. Ho una forte competenza in linguaggi di programmazione come Python, JavaScript e Ruby, e sono esperto nell'uso di framework come Django, React e Vue.js. La mia passione per la tecnologia mi ha portato a specializzarmi anche in strumenti di DevOps come Docker, Kubernetes e Vagrant.
+I believe that great software isn't just about code—it's about **clarity**. In a world of increasing technical complexity, my mission is to remove noise and build systems that are elegant, maintainable, and remarkably efficient.
 
-Amo risolvere problemi complessi e trovare soluzioni innovative. Sono sempre alla ricerca di nuove sfide e opportunità per migliorare le mie competenze e contribuire a progetti interessanti. La mia capacità di adattarmi rapidamente a nuovi ambienti e tecnologie mi permette di lavorare efficacemente sia in team che in modo autonomo.
+I call this the **"Zero Waste" approach**:
 
-Sono un grande sostenitore dell'open source e ho contribuito a diversi progetti, aiutando la comunità a crescere e a migliorare. Quando non sono occupato a programmare, mi piace scrivere articoli tecnici e condividere le mie conoscenze attraverso il mio blog.
+- **Zero Waste of Resources:** Optimizing code and infrastructure to run faster and cheaper.
+- **Zero Waste of Time:** Building internal tools (Platform Engineering) that allow developers to ship features in minutes, not days.
+- **Zero Waste of Mental Energy:** Designing clean, intuitive architectures that are easy to understand and hard to break.
+
+## 🚀 What I Do (The "Why" behind the Tech)
+
+Currently, I serve as **Platform Leader at Fiscozen**, but you can think of me as a **Software Architect for Architects**.
+
+My job is to **enable others**. I build the hidden foundations—the "roads and bridges"—that our product teams use to deliver value to thousands of customers.
+
+- **I solve standard problems once**, so my team doesn't have to solve them a hundred times.
+- **I bridge the gap** between legacy systems (the past) and modern Cloud Native infrastructure (the future), ensuring a smooth evolution rather than a disruptive revolution.
+- **I mentor engineers**, fostering a culture where "clean code" and "psychological safety" go hand in hand.
+
+## 🗺️ My Journey
+
+My path hasn't been a straight line, but a continuous evolution.
+
+- **The Early Days (The Full Stack):** I started by building everything from scratch—websites, e-commerce platforms, and databases. This gave me a holistic understanding of how businesses operate online.
+- **The Scale-Up Phase (PhotoSì & Eko):** I learned how to handle traffic, complex data, and growing teams. I discovered "DevOps" before it was a buzzword—automating the boring stuff so we could focus on creativity.
+- **The Leadership Phase (Fiscozen):** Now, I focus on strategy. How do we structure a team of 50+ engineers? How do we manage cloud costs? How do we ensure our architecture survives the next 5 years?
+
+## 🤝 Beyond the Code (Soft Skills)
+
+Technical skills get you hired, but human skills build careers.
+
+- **Simplifier:** I translate complex technical jargon into business value for stakeholders.
+- **Mentor:** I take pride in watching junior engineers grow into seniors under my guidance.
+- **Problem Solver:** I don't just patch bugs; I look for the root cause in the process or design.
+- **Writer:** I share my knowledge on [my blog](https://waydotnet.com/), writing about everything from Python internals to digital sustainability.
+
+## 🌱 Current Focus
+
+I am currently exploring the intersection of **Event-Driven Architectures** and **Developer Experience**. I want to make building complex distributed systems feel as simple as writing a script on a single machine.
 
 ---
 
