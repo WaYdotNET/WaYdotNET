@@ -62,6 +62,10 @@ I am currently exploring the intersection of **Event-Driven Architectures** and 
 ---
 
 #### Progetti Originali
+- **[Hugo Zero Waste](https://github.com/WaYdotNET/hugo-zero-waste)**: tema Hugo minimale, veloce, accessibile (WCAG AAA) e logo-centrico (CSS)
+- **[InjeCare Plan](https://github.com/WaYdotNET/inje-care-plan)**: app Flutter per la gestione delle terapie iniettive — calendario, rotazione dei punti, 100% offline (Dart/Flutter)
+- **[Profiler Powered by Scalene](https://github.com/WaYdotNET/profiler-powered-by-scalene)**: estensione VSCode/Cursor per il profiling CPU/GPU/memory di Python (TypeScript)
+- **[Minimal Git File History](https://github.com/WaYdotNET/minimal-git-file-history)**: history, diff e blame di un file in un'unica sidebar, stile JetBrains (TypeScript)
 - **[Zen Generator](https://github.com/WaYdotNET/zen-generator)**: generatore di codice Python partendo da una specifica AsyncAPI e viceversa (Python)
 - **[urllib_s3](https://github.com/WaYdotNET/urllib_s3)**: urllib handler per il protocollo s3 (Python)
 - **[CarrierWave::ImageSorcery](https://github.com/WaYdotNET/carrierwave-imagesorcery)**: Ulteriori processi per utilizzare ImageSorcery in CarrierWave (Ruby)
