@@ -53,74 +53,63 @@ I am currently exploring the intersection of **Event-Driven Architectures** and 
 
 ---
 
-#### Competenze
-- **Python**: Django, Django RestFramework
+#### Skills
+- **Python**: Django, Django REST Framework
 - **JavaScript**: Backbone, RivetsJS, Require, jQuery, React, Vue.js
 - **DevOps**: Docker, Kubernetes, Vagrant, OpenStack
 - **Database**: PostgreSQL, MySQL, MongoDB
 
 ---
 
-#### Progetti Originali
-- **[ai-tabs](https://github.com/WaYdotNET/ai-tabs)**: salva e ripristina le tab di iTerm2 con le sessioni di omp, Claude Code, opencode e hermes, anche dopo un riavvio ([PyPI](https://pypi.org/project/ai-tabs/), Python)
-- **[Hugo Zero Waste](https://github.com/WaYdotNET/hugo-zero-waste)**: tema Hugo minimale, veloce, accessibile (WCAG AAA) e logo-centrico (CSS)
-- **[InjeCare Plan](https://github.com/WaYdotNET/inje-care-plan)**: app Flutter per la gestione delle terapie iniettive — calendario, rotazione dei punti, 100% offline (Dart/Flutter)
-- **[Profiler Powered by Scalene](https://github.com/WaYdotNET/profiler-powered-by-scalene)**: estensione VSCode/Cursor per il profiling CPU/GPU/memory di Python (TypeScript)
-- **[Minimal Git File History](https://github.com/WaYdotNET/minimal-git-file-history)**: history, diff e blame di un file in un'unica sidebar, stile JetBrains (TypeScript)
-- **[Zen Generator](https://github.com/WaYdotNET/zen-generator)**: generatore di codice Python partendo da una specifica AsyncAPI e viceversa (Python)
-- **[urllib_s3](https://github.com/WaYdotNET/urllib_s3)**: urllib handler per il protocollo s3 (Python)
-- **[CarrierWave::ImageSorcery](https://github.com/WaYdotNET/carrierwave-imagesorcery)**: Ulteriori processi per utilizzare ImageSorcery in CarrierWave (Ruby)
-- **[MsTranslate](https://github.com/WaYdotNET/ms_translate)**: API semplice in Ruby per Microsoft Translator V2 (Ruby)
-- **[padrino-lazy](https://github.com/WaYdotNET/padrino-lazy)**: Include alcune proprietà comuni tra gli oggetti modello usati come oggetto base (Ruby)
+#### Original Projects
+- **[ai-tabs](https://github.com/WaYdotNET/ai-tabs)**: saves and restores iTerm2 tabs with their omp, Claude Code, opencode and hermes sessions, also after a reboot ([PyPI](https://pypi.org/project/ai-tabs/), Python)
+- **[Hugo Zero Waste](https://github.com/WaYdotNET/hugo-zero-waste)**: minimal, fast, accessible (WCAG AAA) and logo-centric Hugo theme (CSS)
+- **[InjeCare Plan](https://github.com/WaYdotNET/inje-care-plan)**: Flutter app to manage injection therapies — calendar, injection site rotation, 100% offline (Dart/Flutter)
+- **[Profiler Powered by Scalene](https://github.com/WaYdotNET/profiler-powered-by-scalene)**: VSCode/Cursor extension for CPU, GPU and memory profiling of Python (TypeScript)
+- **[Minimal Git File History](https://github.com/WaYdotNET/minimal-git-file-history)**: history, diff and blame of a file in one sidebar, JetBrains style (TypeScript)
+- **[Zen Generator](https://github.com/WaYdotNET/zen-generator)**: generates Python code from an AsyncAPI specification, and the other way around (Python)
+- **[urllib_s3](https://github.com/WaYdotNET/urllib_s3)**: urllib handler for the s3 protocol (Python)
+- **[CarrierWave::ImageSorcery](https://github.com/WaYdotNET/carrierwave-imagesorcery)**: additional processes to use ImageSorcery in CarrierWave (Ruby)
+- **[MsTranslate](https://github.com/WaYdotNET/ms_translate)**: simple Ruby API for Microsoft Translator V2 (Ruby)
+- **[padrino-lazy](https://github.com/WaYdotNET/padrino-lazy)**: shared properties for the model objects used as base objects (Ruby)
 
 ---
 
-#### Progetti come Contributor
-- **[celery-pubsub](https://github.com/Mulugruntz/celery-pubsub)**: Publish and Subscribe with Celery (Python)
-- **[sqlany-django](https://github.com/sqlanywhere/sqlany-django)**: Backend del database SQL Anywhere per Django (Python)
-- **[MiniRecord](https://github.com/DAddYE/mini_record)**: Micro estensione per la nostra gemma ActiveRecord (Ruby)
-- **[Minio Client SDK for Python](https://github.com/minio/minio-py)**: Libreria Python per Minio compatibile con lo storage Amazon S3 (Python)
-- **[design-web-toolkit](https://github.com/italia/design-web-toolkit)**: Toolkit web contenente CSS, componenti Javascript accessibili e snippet HTML (JavaScript)
-- **[ampersand-state-mixin-datatype-iso-date](https://github.com/WaYdotNET/ampersand-state-mixin-datatype-iso-date)**: Aggiunge funzionalità di data ISO 8601 allo stato di ampersand (JavaScript)
-- **[outlinejs](https://github.com/outlinejs/outlinejs)**: Nano-framework ES6 opinato (JavaScript)
-- **[padrino-framework](https://github.com/padrino/padrino-framework)**: Padrino è il padrino di Sinatra (Ruby)
-- **[padrinobook](https://github.com/padrinobook/padrinobook)**: Guida per padroneggiare il framework web Ruby elegante Padrino (Ruby)
-- **[Padrino Integration](https://github.com/padrino/padrino-integration)**: Test di integrazione per il framework Padrino (Ruby)
-- **[Padrino Recipes](https://github.com/padrino/padrino-recipes)**: Raccolta di template e plugin per Padrino (Ruby)
-- **[Padrino Contrib](https://github.com/padrino/padrino-contrib)**: Plugin e utilità contribuite per il framework Padrino (Ruby)
+#### Contributions
+- **[celery-pubsub](https://github.com/Mulugruntz/celery-pubsub)**: publish and subscribe with Celery (Python)
+- **[sqlany-django](https://github.com/sqlanywhere/sqlany-django)**: SQL Anywhere database backend for Django (Python)
+- **[MiniRecord](https://github.com/DAddYE/mini_record)**: micro extension for ActiveRecord (Ruby)
+- **[Minio Client SDK for Python](https://github.com/minio/minio-py)**: Python library for MinIO, compatible with Amazon S3 storage (Python)
+- **[design-web-toolkit](https://github.com/italia/design-web-toolkit)**: web toolkit with CSS, accessible JavaScript components and HTML snippets (JavaScript)
+- **[ampersand-state-mixin-datatype-iso-date](https://github.com/WaYdotNET/ampersand-state-mixin-datatype-iso-date)**: adds the ISO 8601 date data type to ampersand-state (JavaScript)
+- **[outlinejs](https://github.com/outlinejs/outlinejs)**: opinionated ES6 nano-framework (JavaScript)
+- **[padrino-framework](https://github.com/padrino/padrino-framework)**: Padrino, the godfather of Sinatra (Ruby)
+- **[padrinobook](https://github.com/padrinobook/padrinobook)**: guide to the elegant Padrino Ruby web framework (Ruby)
+- **[Padrino Integration](https://github.com/padrino/padrino-integration)**: integration tests for the Padrino framework (Ruby)
+- **[Padrino Recipes](https://github.com/padrino/padrino-recipes)**: templates and plugins for Padrino (Ruby)
+- **[Padrino Contrib](https://github.com/padrino/padrino-contrib)**: contributed plugins and utilities for the Padrino framework (Ruby)
 
 ---
 
+#### PyCon Italia Talks
 
-#### Talk al PyCon
+With Francesco Panico. The talks are in Italian.
 
-- 2026: **Dai Generatori ad Asyncio: async/await non è magia**
-  [Dai Generatori ad Asyncio: async/await non è magia](https://www.waydotnet.com/posts/2026-03-18-dai-generatori-ad-asyncio-asyncawait-non-e-magia/) · [video](https://www.youtube.com/watch?v=LkWB0tDHdm8) · [slide](https://www.waydotnet.com/pdf/talk_pycon_it_2026_generatori_da_yield_ad_asyncio.pdf)
-  > Qui potete vedere il talk che ho fatto insieme a Francesco Panico durante il Pycon.it 2026. Un viaggio dentro le coroutine di Python, dal primo `yield` fino all'event loop.
+- 2026: **From Generators to Asyncio: async/await is not magic**
+  [Blog post](https://www.waydotnet.com/posts/2026-03-18-dai-generatori-ad-asyncio-asyncawait-non-e-magia/) · [video](https://www.youtube.com/watch?v=LkWB0tDHdm8) · [slides](https://www.waydotnet.com/pdf/talk_pycon_it_2026_generatori_da_yield_ad_asyncio.pdf)
+  > A journey inside Python coroutines, from the first `yield` to the event loop.
 
-
-- 2024: **Zero Waste: Trucchi per Riciclare (la Memoria) Meglio**
-  [Zero waste: trucchi per riciclare (la memoria) meglio](https://www.waydotnet.com/posts/2024-06-16-zero-waste-trucchi-per-riciclare-la-memoria-meglio/)
-  > Qui potete vedere il talk che ho fatto insieme a Francesco Panico durante il Pycon.it 2024. Parleremo del peggior spreco per un dev: quello di memoria.
-
+- 2024: **Zero Waste: Tricks to Recycle (Memory) Better**
+  [Blog post](https://www.waydotnet.com/posts/2024-06-16-zero-waste-trucchi-per-riciclare-la-memoria-meglio/)
+  > About the worst waste for a developer: memory.
 
 - 2023: **Coding to Interfaces: Structural Subtyping in Python**
-  [Coding to interfaces: Structural Subtyping in Python](https://www.waydotnet.com/posts/2024-06-15-coding-to-interfaces-structural-subtyping-in-python/)
-  > Qui potete vedere il talk che ho fatto insieme a Francesco Panico durante il Pycon.it 2023. 
-  > Separare l’interfaccia dall’implementazione, una delle regole d’oro dell’OOP.
+  [Blog post](https://www.waydotnet.com/posts/2024-06-15-coding-to-interfaces-structural-subtyping-in-python/)
+  > Separate the interface from the implementation, one of the golden rules of OOP.
 
 ---
 
-#### Contatti
+#### Contacts
 - **GitHub**: [WaYdotNET](https://github.com/WaYdotNET)
 - **LinkedIn**: [Carlo Bertini](https://www.linkedin.com/in/WaYdotNET)
-- **Blog**: [WaYdotNET](https://waydotnet.com/)
-
-
----
-#### Statistiche GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaYdotNET&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaYdotNET&layout=compact&theme=radical)
-
----
+- **Blog**: [waydotnet.com](https://www.waydotnet.com/)
