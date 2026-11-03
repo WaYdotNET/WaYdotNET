@@ -62,6 +62,7 @@ I am currently exploring the intersection of **Event-Driven Architectures** and 
 ---
 
 #### Progetti Originali
+- **[ai-tabs](https://github.com/WaYdotNET/ai-tabs)**: salva e ripristina le tab di iTerm2 con le sessioni di omp, Claude Code, opencode e hermes, anche dopo un riavvio ([PyPI](https://pypi.org/project/ai-tabs/), Python)
 - **[Hugo Zero Waste](https://github.com/WaYdotNET/hugo-zero-waste)**: tema Hugo minimale, veloce, accessibile (WCAG AAA) e logo-centrico (CSS)
 - **[InjeCare Plan](https://github.com/WaYdotNET/inje-care-plan)**: app Flutter per la gestione delle terapie iniettive — calendario, rotazione dei punti, 100% offline (Dart/Flutter)
 - **[Profiler Powered by Scalene](https://github.com/WaYdotNET/profiler-powered-by-scalene)**: estensione VSCode/Cursor per il profiling CPU/GPU/memory di Python (TypeScript)
@@ -92,6 +93,11 @@ I am currently exploring the intersection of **Event-Driven Architectures** and 
 
 
 #### Talk al PyCon
+
+- 2026: **Dai Generatori ad Asyncio: async/await non è magia**
+  [Dai Generatori ad Asyncio: async/await non è magia](https://www.waydotnet.com/posts/2026-03-18-dai-generatori-ad-asyncio-asyncawait-non-e-magia/) · [video](https://www.youtube.com/watch?v=LkWB0tDHdm8) · [slide](https://www.waydotnet.com/pdf/talk_pycon_it_2026_generatori_da_yield_ad_asyncio.pdf)
+  > Qui potete vedere il talk che ho fatto insieme a Francesco Panico durante il Pycon.it 2026. Un viaggio dentro le coroutine di Python, dal primo `yield` fino all'event loop.
+
 
 - 2024: **Zero Waste: Trucchi per Riciclare (la Memoria) Meglio**
   [Zero waste: trucchi per riciclare (la memoria) meglio](https://www.waydotnet.com/posts/2024-06-16-zero-waste-trucchi-per-riciclare-la-memoria-meglio/)
