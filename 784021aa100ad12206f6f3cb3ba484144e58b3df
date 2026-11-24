@@ -1,0 +1,25 @@
+{
+  "schema_version": "ai-attribution/1.2.0",
+  "base_commit_sha": "f812604800e0a54d0532e2217a8b220385116041",
+  "sessions": {
+    "01a20d7e-0996-7457-bd1d-4166df802215": {
+      "agent": {
+        "tool": "omp",
+        "model": "anthropic/claude-opus-5-5"
+      },
+      "human_author": "Carlo Bertini \u003cwaydotnet@gmail.com\u003e"
+    }
+  },
+  "files": {
+    "README.md": {
+      "01a20d7e-0996-7457-bd1d-4166df802215::4f5c152099b2": [
+        65
+      ]
+    }
+  },
+  "turns": {
+    "01a20d7e-0996-7457-bd1d-4166df802215::4f5c152099b2": {
+      "model": "anthropic/claude-opus-5-5"
+    }
+  }
+}
