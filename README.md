@@ -62,6 +62,7 @@ I am currently exploring the intersection of **Event-Driven Architectures** and 
 ---
 
 #### Original Projects
+- **[zepp2renpho](https://github.com/WaYdotNET/zepp2renpho)**: moves smart scale history from Zepp to RENPHO Health, family members, babies and pets included (Python)
 - **[ai-tabs](https://github.com/WaYdotNET/ai-tabs)**: saves and restores iTerm2 tabs with their omp, Claude Code, opencode and hermes sessions, also after a reboot ([PyPI](https://pypi.org/project/ai-tabs/), Python)
 - **[Hugo Zero Waste](https://github.com/WaYdotNET/hugo-zero-waste)**: minimal, fast, accessible (WCAG AAA) and logo-centric Hugo theme (CSS)
 - **[InjeCare Plan](https://github.com/WaYdotNET/inje-care-plan)**: Flutter app to manage injection therapies — calendar, injection site rotation, 100% offline (Dart/Flutter)
